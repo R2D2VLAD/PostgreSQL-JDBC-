@@ -9,7 +9,7 @@ public class Emploee {
     private int age;
     private City cityId;
 
-    public Emploee() {
+    public Emploee(String first_name, String last_name, String gender, int age, int anInt, City city_id) {
 
     }
 
